@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding:0;
+}
+a {
+    color: #856c60;
+    font-family: 'Montserrat', sans-serif;;
+  }
+.navigation{
+    width: 1200px;
+    margin-left: auto;
+    margin: 0 auto;
+    padding: 35px;
+
+}
+
+.blurb{  
+    width: 1100px;
+    margin-left: auto;
+    margin: 0 auto;
+    color: #4a4936;
+    font-family: 'Montserrat', sans-serif;
+    padding: 50px;}
+    
+
+
+.logo{
+    width: 60px;
+    float: left;
+}
+
+.DO-UX{
+    font-family: 'Montserrat', sans-serif;
+}
+.topnav-right {
+    float: right;
+    font-family: 'Montserrat', sans-serif;
+    color: 7d5e3a;
+  }
+
+
+.right{
+    float:right;
+    padding-right:15px;
+}
+.Bio-Body {
+    font-family:'Montserrat', sans-serif;
+    color: #4a4936;
+    padding: 120px;
+}
+
+.About{  
+    width: 850px;
+    margin-left: auto;
+    margin: 0 auto;
+    color: #4a4936;
+    font-family: 'Montserrat', sans-serif;
+    padding: 35px;}
+    
+
+
+.contact{ 
+    color: #4a4936;
+    font-family: 'Montserrat', sans-serif;
+    padding: 55px;}   
+
+.footer{
+padding:35px;
+}
+
